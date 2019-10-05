@@ -1,0 +1,8 @@
+﻿  02-线性结构4 Pop Sequence (25 分).cpp
+C:\Users\huche\source\repos\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分).cpp(13,20): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\huche\source\repos\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分).cpp(15,23): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\huche\source\repos\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分).cpp(35,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\huche\source\repos\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分)\02-线性结构4 Pop Sequence (25 分).cpp(42,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  02-线性结构4 Pop Sequence (25 分).vcxproj -> C:\Users\huche\source\repos\02-线性结构4 Pop Sequence (25 分)\Debug\02-线性结构4 Pop Sequence (25 分).exe
