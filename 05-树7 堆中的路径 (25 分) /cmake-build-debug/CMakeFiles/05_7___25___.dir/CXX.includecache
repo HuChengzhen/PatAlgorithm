@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huchengzhen/Develop/PatAlgorithm/05-树7 堆中的路径 (25 分) /main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
